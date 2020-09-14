@@ -1,0 +1,15 @@
+Things We Want:
+
+Mobile Friendly
+Multiple pages
+Shows Tab
+	*Home,Media(Show your stuff)(or spit into music and videos),Bio,Shows,Shop,Contact
+Editing control somehow
+	*music and videos and shows
+	*admin version with password
+
+Things to discuss:
+No scroll, page scroll or window scroll
+Show all past show are not
+Have music playable on site
+Have instagram integrated 

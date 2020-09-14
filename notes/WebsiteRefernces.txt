@@ -1,0 +1,30 @@
+http://www.christianscott.tv/stretchmusichome
+	*Jazz Musician
+	*Has a media page with magazine covers and his videos
+	*Socials at the bottom
+	*BIO page
+		*His life, then about his app and what he is trying to do
+	*Overall bland except the pictures of himself
+	*Not built for mobile sometimes
+	*On tour page, shows both upcoming and past shows
+	*all shows connected to third party site called bansintown
+
+https://greenday.com/
+	*Clean and stylized
+	*newest project at the gate
+	*pictures of themselves takes up alot of room
+	*front page has some favorite videos
+	*Music and video tabs go to external links like youtube
+	
+https://www.makayamccraven.com/music/
+	*only 5 tabs
+	*press tab has online articles and links to them
+	*combines press with media
+	*Front page has alittle of everything and tour
+	*Extended Bio has full life story
+	*Clean, each section on page has a new background 
+	*Music tab shows all albums and plays all songs
+
+
+
+
